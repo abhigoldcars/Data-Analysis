@@ -1,0 +1,19 @@
+"Subscription Type",Gender,Year,Average_Revenue,Total_Revenue,Users
+Premium,Female,2021,15.00,15,1
+Premium,Male,2021,15.00,15,1
+Premium,Female,2023,14.38,115,8
+Basic,Female,2021,14.00,28,2
+Standard,Female,2023,12.83,77,6
+Premium,Male,2022,12.59,4595,365
+Basic,Male,2022,12.55,5984,477
+Premium,Female,2022,12.54,4452,355
+Standard,Female,2022,12.53,4674,373
+Basic,Female,2022,12.48,6264,502
+Standard,Male,2022,12.41,4666,376
+Premium,Male,2023,12.33,37,3
+Standard,Male,2023,12.00,48,4
+Standard,Male,2021,12.00,84,7
+Standard,Female,2021,12.00,24,2
+Basic,Female,2023,10.88,87,8
+Basic,Male,2023,10.67,96,9
+Basic,Male,2021,10.00,10,1
